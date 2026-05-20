@@ -1,5 +1,7 @@
 # YELIM KIM
 
+
+
 ## 🛠️ Tech Stacks
 
 ### Frontend
@@ -24,3 +26,8 @@
 ## 📫 Contact & Links
 * **Email:** kyl656227@gmail.com
 * **Blog:** https://www.notion.so/Portfolio-060de800477a834d870f814151982d6b?source=copy_link
+
+---
+
+* ### 🐾 My Coding Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyl656227&theme=black-lucent&hide_border=true)](https://git.io/streak-stats)
