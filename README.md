@@ -18,7 +18,11 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyl656227&show_icons=true&theme=radial&hide_border=true" alt="Yelim's GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=kyl656227&show_icons=true&theme=vue-dark&hide_border=true" alt="Yelim's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=kyl656227&layout=compact&theme=vue-dark&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
@@ -29,5 +33,7 @@
 
 ---
 
-* ### 🐾 My Coding Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyl656227&theme=black-lucent&hide_border=true)](https://git.io/streak-stats)
+### 🦊 GitHub Status with Animal
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kyl656227&show_icons=true&theme=pets" alt="Yelim's GitHub Stats" />
+</p>)
