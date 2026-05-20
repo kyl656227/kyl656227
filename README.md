@@ -33,7 +33,6 @@
 
 ---
 
-### 🦊 GitHub Status with Animal
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyl656227&show_icons=true&theme=pets" alt="Yelim's GitHub Stats" />
-</p>)
+### 🛵 MSA Tema Project - Delivery Service
+BE : https://github.com/momoolggo/momoolggo2-be.git
+FE : https://github.com/momoolggo/momoolggo2-fe.git
