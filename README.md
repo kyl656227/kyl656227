@@ -18,11 +18,11 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=kyl656227&show_icons=true&theme=vue-dark&hide_border=true" alt="Yelim's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kyl656227&show_icons=true&theme=tokyonight&hide_border=true" alt="Yelim's GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=kyl656227&layout=compact&theme=vue-dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyl656227&theme=tokyonight" alt="Yelim's Profile Summary" />
 </p>
 
 ---
