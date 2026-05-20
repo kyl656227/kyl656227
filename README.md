@@ -34,5 +34,5 @@
 ---
 
 ### 🛵 MSA Tema Project - Delivery Service
-BE : https://github.com/momoolggo/momoolggo2-be.git
-FE : https://github.com/momoolggo/momoolggo2-fe.git
+* **BE: https://github.com/momoolggo/momoolggo2-be.git
+* **FE : https://github.com/momoolggo/momoolggo2-fe.git
